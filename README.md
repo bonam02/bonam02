@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bonam02
-- 👀 I’m interested in exploring coding questions
+- 👀 I’m interested in exploring new things that motivates me 😉
 - 🌱 I’m currently learning DS and algos
 - 💞️ I’m looking to collaborate on social networks
 - 📫 How to reach me 8099662955

@@ -1,0 +1,13 @@
+
+
+first install python
+
+Step1) python3 -m venv venv
+       This will create a new folder, venv, in your home folder, which will contain your virtual environment.
+
+Step2) Activate the virtual environment by typing : source ~/venv/bin/activate
+       ~ is shorthand for your home folder. So this actually translates to: source /Users/[your-username]/bin/activate
+       If the command is successful, a (venv) should appear in front of your terminal prompt.
+
+ Now it will activate virtual environment
+
